@@ -8,7 +8,6 @@ nav{
     padding: 10px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background: #04356a;
-
     color: azure;
     position: fixed;
 }
@@ -51,6 +50,9 @@ transition: 300ms;
 
 footer{
     text-align: center;
-    padding-bottom:10px ;
+    padding-bottom: 20px;
     padding-top: 5px;
+}
+i{
+    padding: 10px;
 }
